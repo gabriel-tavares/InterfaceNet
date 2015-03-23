@@ -1,0 +1,79 @@
+#ribbon {
+    position: relative;
+    height: 150px;
+}
+
+#ribbon .ribbon-button-large {
+    height: 68px;
+}
+
+body {
+    padding-top: 0 !important;
+    font-size: 12px;
+}
+
+.ribbon-title, .button-title{
+    font-weight: bold !important;
+}
+
+.center-block{
+    float: none;
+}
+
+.container {
+    background-color: #e3e3e3;
+    padding: 0;
+}
+
+.border {
+    margin-top: 20px;
+    border: 1px solid #1a4687;
+    border-radius: 5px;
+    background-color: #fff;
+    padding: 0 0 15px 0;
+}
+.formulario{
+    padding:20px 0;
+    margin-bottom: 0 !important;
+    
+}
+.formulario label, .formulario div {
+    
+}
+.formulario label{
+    line-height:30px;
+}
+
+.formulario label.radio-inline{
+    line-height:22px; !important;
+}
+.formulario .radio-inline input[type=radio]{
+    margin-left: -14px;
+}
+
+.titulo {
+    display: block;
+    margin: 10px 15px 0 15px;
+    border-bottom: 1px dotted #e4e9f0;
+}
+.titulo h2 {
+    margin: 0 0 -2px 0;
+    padding-bottom: 5px;
+    display: inline-block;
+    border-bottom: 2px solid #fcad1c;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: #555;
+    margin-top: 5px;
+    text-shadow: none;
+    font-weight: normal;
+    font-family: "Open Sans", Arial, sans-serif;
+}
+
+.table-resultado, .detalhe-chamado{
+    padding: 0 15px;
+    margin-top: 20px;
+}
